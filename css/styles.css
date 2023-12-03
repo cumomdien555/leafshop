@@ -1,0 +1,50 @@
+
+.navbar{
+    background-color: #000000;
+    height: 100px;
+   
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #ffffff;
+}
+.navbar-brand strong em {
+    color: #AA1C1F;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #CAE4BF;
+    color: #1A4706;
+}
+#accordion5 .card #headingOne1 {
+    background-color: #336600;
+}
+#accordion5 .card #headingTwo1 {
+    background-color: #336600;
+}
+#accordion5 .card #headingThree1 {
+    background-color: #336600;
+    color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #424F08;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #424F08;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #424F08;
+}
+#accordion4 footer .row {
+    background-color: #000000;
+}
+.container-fluid {
+}
+.nav-item.active .nav-link strong {
+}
+
+.gach-chan{ line-height: 30px; padding-left: 200px}
+.text a:hover{color: #FFFFFF; }
+.text-trang{color: white}
+.button{color: #CAE4BF; background-color: #0A6200; border: #0A6200; border-radius: 17px; height: 40px; width: 130px }
+.button a:hover{color: #FF9E00; font-weight: 500
+}
+h1{text-align: center}
